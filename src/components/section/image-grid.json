@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_section_image_grids",
+  "info": {
+    "displayName": "image_grid",
+    "icon": "attachment",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
